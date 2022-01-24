@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\fotosOrder.exe
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\fotosOrder.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\fotosOrder.deps.json
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\fotosOrder.runtimeconfig.json
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\fotosOrder.pdb

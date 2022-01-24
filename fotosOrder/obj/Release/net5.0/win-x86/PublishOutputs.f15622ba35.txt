@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\oneFile\fotosOrder.pdb
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\oneFile\clrcompression.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\oneFile\clrjit.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\oneFile\coreclr.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\oneFile\mscordaccore.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Release\net5.0\publish\oneFile\fotosOrder.exe

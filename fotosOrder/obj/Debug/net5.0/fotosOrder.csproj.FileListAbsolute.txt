@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Debug\net5.0\fotosOrder.exe
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Debug\net5.0\fotosOrder.deps.json
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Debug\net5.0\fotosOrder.runtimeconfig.json
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Debug\net5.0\fotosOrder.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Debug\net5.0\fotosOrder.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Debug\net5.0\ref\fotosOrder.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\bin\Debug\net5.0\fotosOrder.pdb
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\fotosOrder.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\fotosOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\fotosOrder.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\fotosOrder.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\fotosOrder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\fotosOrder.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\ref\fotosOrder.dll
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\fotosOrder.pdb
+C:\Users\Lenovo\source\repos\fotosOrder\fotosOrder\obj\Debug\net5.0\fotosOrder.genruntimeconfig.cache
