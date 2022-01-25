@@ -8,7 +8,7 @@
 
 - The application queries about the *source path* and the *destination path*.
 
-you can use only the "oneFile" directory with the executable file.
+you can copy in some folder, only the "oneFile" directory with the executable file "**fotosOrder.exe**".
 https://github.com/Gusjafo/sortPhotos/tree/main/fotosOrder/bin/Release/net5.0/publish/oneFile
 
 
